@@ -1,0 +1,23 @@
+﻿  timer.cpp
+  textSprite.cpp
+  sprite.cpp
+  sdlManager.cpp
+  Nave.cpp
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\nave.cpp(27): warning C4018: '>': signed/unsigned mismatch
+  Musica.cpp
+  main.cpp
+  Heroe.cpp
+  gameManager.cpp
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(420): warning C4018: '>': signed/unsigned mismatch
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(534): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Enemigo_C.cpp
+  Enemigo_B.cpp
+  Enemigo_A.cpp
+  Bullet.cpp
+  animatedSprite.cpp
+  Generating Code...
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(469): warning C4715: 'GameManager::contactoBulletNave': not all control paths return a value
+c:\users\juan manuel\desktop\portfoliojuegos\prog_2_shooter\sdlengine\gamemanager.cpp(506): warning C4715: 'GameManager::contactoBullet_Enemy': not all control paths return a value
+  sdlEngine.vcxproj -> C:\Users\Juan Manuel\Desktop\portfolioJuegos\prog_2_shooter\sdlengine\winProject\sdlEngine\Debug\sdlEngine.exe

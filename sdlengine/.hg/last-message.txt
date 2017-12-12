@@ -1,0 +1,1 @@
+Added timer class. Cap FPS. Added sprite example
